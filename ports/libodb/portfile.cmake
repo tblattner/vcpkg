@@ -1,7 +1,7 @@
 vcpkg_download_distfile(ARCHIVE
     URLS "https://pkg.cppget.org/1/stable/odb/libodb-${VERSION}.tar.gz"
     FILENAME "libodb-${VERSION}.tar.gz"
-    SHA256 700038a73c6cbead011129b15030b7cdd3f73510b687f2c4504808df4230441b
+    SHA512 7c8b931f314ee23de2cdaa409ee3ebafbb73c7f17c8ca1699209c1d83862f3d00cdd74d6a0680bfc4bf1dab43d31d2e6a2ef85437c8e7e5e43d1113125bea5dd
 )
 
 vcpkg_extract_source_archive(
